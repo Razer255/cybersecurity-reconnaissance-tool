@@ -2,7 +2,7 @@
 
 A full-stack **Cybersecurity Reconnaissance Tool** built using **Python (Flask)** and **HTML/CSS/JavaScript**.
 
-This project automates the **information-gathering phase** of cybersecurity by collecting publicly available data about a target domain.
+This project automates the **information-gathering phase** of cybersecurity by collecting publicly available data about a target domain. (eg. 192.168.XX.XX)
 
 ---
 
